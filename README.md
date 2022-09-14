@@ -7,9 +7,9 @@
 
 ##### Managing Code Repositories:
 
-- Repo (created using the GitHub web interface, or using the Git CLI with `git init`):
+- Repo (created using the GitHub web interface, or using the Git CLI with `git init`): repo = code repository
 
-- Fork (typically created using the GitHub web interface only): 
+- Fork (typically created using the GitHub web interface only): independent copy of repo
 
 - Local Clone (typically created using the Git CLI with `git clone` only): 
 
